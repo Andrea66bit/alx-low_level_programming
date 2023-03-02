@@ -15,6 +15,7 @@ p = &n;
 * - you are not allowed to modify p
 * - only one statement
 * - you are not allowed to code anything else than this line of code
+*A main is a predefined keyword or function in C. It is the first function of every C program that is responsible for starting the execution and termination of the program.
 */
 *(p + 5) = 98;
 /* ...so that this prints 98\n */
