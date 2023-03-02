@@ -8,14 +8,17 @@ int *p;
 
 a[2] = 1024;
 p = &n;
-/*
-* write your line of code here...
-* Remember:
-* - you are not allowed to use a
-* - you are not allowed to modify p
-* - only one statement
-* - you are not allowed to code anything else than this line
-of code
+/**
+ * main - Entry point
+ * 
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
+ * 
+ * Return: Always 0 (Success)
+int main(void)
+{
+    Code goes here
+}
 */
 *(p + 5) = 98;
 /* ...so that this prints 98\n */
