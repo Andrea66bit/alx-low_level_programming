@@ -4,7 +4,7 @@
 #include <type.h>
 #include <string.h>
 
-int _islower(int n)
+int _abs(int n)
 {
     return abs(n);
 } 

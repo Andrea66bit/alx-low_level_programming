@@ -4,7 +4,7 @@
 #include <type.h>
 #include <string.h>
 
-void _puts(char *a)
+void _puts(char *s)
 {
    puts(s);
 }
